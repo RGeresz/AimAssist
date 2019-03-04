@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccee4616-2757-45fa-ab9a-9263eba9df01" name="Default Changelist" comment="" />
+    <list default="true" id="ccee4616-2757-45fa-ab9a-9263eba9df01" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,22 +50,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ProjektPZ/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="39" column="80" lean-forward="true" selection-start-line="39" selection-start-column="80" selection-end-line="39" selection-end-column="80" />
+            <state relative-caret-position="561">
+              <caret line="39" column="80" selection-start-line="39" selection-start-column="80" selection-end-line="39" selection-end-column="80" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1265#1266#0" expanded="true" />
-                <element signature="e#1293#1294#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ProjektPZ/controllers/MenuController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="168" column="12" lean-forward="true" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="12" />
+            <state relative-caret-position="841">
+              <caret line="168" column="12" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProjektPZ/pattern/PatternPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="41" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,9 +141,9 @@
         <option value="$PROJECT_DIR$/src/main/java/ProjektPZ/Database.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProjektPZ/pattern/dMousePosition.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProjektPZ/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProjektPZ/pattern/PatternPlayer.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProjektPZ/pattern/PatternRecorder.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProjektPZ/controllers/MenuController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProjektPZ/pattern/PatternPlayer.java" />
       </list>
     </option>
   </component>
@@ -179,6 +191,7 @@
     <option name="width" value="1940" />
     <option name="height" value="1100" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -188,59 +201,43 @@
         <subPane>
           <expand>
             <path>
-              <item name="ProjektPZ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjektPZ" type="462c0819:PsiDirectoryNode" />
+              <item name="AimAssist2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AimAssist2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ProjektPZ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjektPZ" type="462c0819:PsiDirectoryNode" />
+              <item name="AimAssist2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AimAssist2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ProjektPZ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjektPZ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjektPZ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjektPZ" type="462c0819:PsiDirectoryNode" />
+              <item name="AimAssist2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AimAssist2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ProjektPZ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjektPZ" type="462c0819:PsiDirectoryNode" />
+              <item name="AimAssist2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AimAssist2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ProjektPZ" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ProjektPZ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjektPZ" type="462c0819:PsiDirectoryNode" />
+              <item name="AimAssist2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AimAssist2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ProjektPZ" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ProjektPZ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjektPZ" type="462c0819:PsiDirectoryNode" />
+              <item name="AimAssist2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AimAssist2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ProjektPZ" type="462c0819:PsiDirectoryNode" />
-              <item name="mouse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjektPZ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjektPZ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -361,7 +358,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="327073000" />
+    <option name="totallyTimeSpent" value="327079000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -373,10 +370,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19722815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -385,7 +382,6 @@
       <window_info id="Learn" order="6" weight="0.32995737" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info id="Persistence" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Sequence" visible="true" weight="0.29035753" />
       <window_info anchor="bottom" id="Duplicate detector" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49946696" weight="0.32936078" />
@@ -404,6 +400,7 @@
       <window_info anchor="bottom" id="Database Console" order="15" weight="0.32936078" />
       <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.32936078" />
       <window_info anchor="bottom" id="Spring" order="17" />
+      <window_info anchor="bottom" id="Sequence" order="18" visible="true" weight="0.29035753" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -439,12 +436,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/test.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="7" column="92" selection-start-line="7" selection-start-column="92" selection-end-line="7" selection-end-column="92" />
         </state>
       </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProjektPZ/utils/PlatformUtil.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -678,16 +675,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProjektPZ/utils/HibernateUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProjektPZ/utils/HibernateUtil.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ProjektPZ/Database.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1274">
@@ -763,8 +751,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProjektPZ/pattern/PatternPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="27" column="99" selection-start-line="27" selection-start-column="99" selection-end-line="27" selection-end-column="99" />
+        <state relative-caret-position="391">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -813,20 +801,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProjektPZ/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="39" column="80" lean-forward="true" selection-start-line="39" selection-start-column="80" selection-end-line="39" selection-end-column="80" />
+        <state relative-caret-position="561">
+          <caret line="39" column="80" selection-start-line="39" selection-start-column="80" selection-end-line="39" selection-end-column="80" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1265#1266#0" expanded="true" />
-            <element signature="e#1293#1294#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProjektPZ/controllers/MenuController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="168" column="12" lean-forward="true" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="12" />
+        <state relative-caret-position="841">
+          <caret line="168" column="12" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="12" />
         </state>
       </provider>
     </entry>

@@ -20,8 +20,8 @@ public class PatternPlayer {
 
 
     private void moveMouse(dMousePosition point) {
-        robot.delay((int) point.getDt());
         robot.mouseMove((int) (MouseInfo.getPointerInfo().getLocation().getX() - point.getDx()), (int) (MouseInfo.getPointerInfo().getLocation().getY() - point.getDy()));
+        robot.delay((int) point.getDt());
     }
 
     public void playPattern(MyMouseEvent event) {
