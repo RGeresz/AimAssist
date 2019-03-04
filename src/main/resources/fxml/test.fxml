@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ProjektPZ.controllers.MenuController">
+   <children>
+      <Label layoutX="180.0" layoutY="252.0" text="State:">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="140.0" layoutY="327.0" text="Currently loaded:">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Button fx:id="savePatternButton" layoutX="65.0" layoutY="33.0" mnemonicParsing="false" onAction="#savePattern" text="Save pattern" />
+      <Button fx:id="loadPatternFromDatabaseButton" layoutX="24.0" layoutY="105.0" mnemonicParsing="false" onAction="#loadPatternFromDatabase" text="Load pattern from database" />
+      <Button fx:id="exitButton" layoutX="88.0" layoutY="175.0" mnemonicParsing="false" onAction="#exit" text="Exit" />
+      <Label fx:id="appState" alignment="CENTER" layoutX="147.0" layoutY="277.0" prefHeight="17.0" prefWidth="105.0" text="STOPPED">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Label>
+      <Label fx:id="loadedPattern" alignment="CENTER" layoutX="121.0" layoutY="352.0" prefHeight="34.0" prefWidth="157.0" text="NONE" textAlignment="CENTER">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Label>
+      <Button fx:id="deletePatternButton" layoutX="53.0" layoutY="139.0" mnemonicParsing="false" onAction="#deletePattern" prefHeight="25.0" prefWidth="105.0" text="Delete pattern" />
+      <ListView fx:id="listView" layoutX="233.0" layoutY="17.0" prefHeight="200.0" prefWidth="142.0" />
+      <Button fx:id="loadPatternFromGIFButton" layoutX="40.0" layoutY="68.0" mnemonicParsing="false" onAction="#loadPatternFromGIF" text="Load pattern from GIF" />
+   </children>
+</Pane>

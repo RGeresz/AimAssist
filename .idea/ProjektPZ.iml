@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map>
+          <unit-entry name="ProjektPZ:cfg:hibernate.cfg.xml" value="443d6a62-4746-4a25-9f08-02001714989f" />
+          <unit-entry name="hibernate.cfg.xml" value="6ad36d9e-4657-4e29-bf42-dd629389da52" />
+        </datasource-map>
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/main/resources/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+  </component>
+</module>
